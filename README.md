@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Raybu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raybu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Raybu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Raybu-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/0d1c2db152ebf05dd73f4fc1b2b0de22.gif">
+  <img align="right" alt="Raybu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/843321196078039090/1004878023402725376/raybu.gif">
 </div>
 
   ##
