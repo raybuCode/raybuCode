@@ -1,5 +1,4 @@
-## Olá, Eu sou Rayanne, streamer por diversão... padawan no TI! 🖖
-🤞👽Ps.: Mas pode me chamar de Ray  
+## Hello there, world
 
 <!--
 **raybuCode/raybuCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
